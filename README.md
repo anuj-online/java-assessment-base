@@ -1,3 +1,4 @@
+**For docker run, visit HELP.md in repository**
 # Java Developer - Development Task
 
 ## Introduction
